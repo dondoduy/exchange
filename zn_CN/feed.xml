@@ -3,8 +3,8 @@
     <channel>
         <title></title>
         <description></description>
-        <link>http://dondoduy.github.io/exchange///zn_CN/</link>
-        <atom:link href="http://dondoduy.github.io/exchange///zn_CN/feed.xml" rel="self" type="application/rss+xml" />
+        <link>http://dondoduy.github.io/exchange//mybaseurl/zn_CN/</link>
+        <atom:link href="http://dondoduy.github.io/exchange//mybaseurl/zn_CN/feed.xml" rel="self" type="application/rss+xml" />
 
         
 
